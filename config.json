@@ -1,0 +1,10 @@
+{
+    "mongodb_host": "YOUR_MONGODB_USER",
+    "mongodb_port": 27017,
+    "mongodb_database_name": "YOUR_MONGODB_DATABASE_NAME",
+    "rpc_user": "YOUR_RPC_USER",
+    "rpc_password": "YOUR_RPC_PASSWORD",
+    "rpc_host": "YOUR_RPC_HOST",
+    "rpc_port": 20075
+}
+
